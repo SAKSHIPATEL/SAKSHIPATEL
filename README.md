@@ -21,7 +21,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-[![Linkedin: sakshipatel](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sakshi-patel-51586014b/)](https://www.linkedin.com/in/sakshi-patel-51586014b/)
+[![Linkedin: sakshipatel](https://img.shields.io/badge/-sakshipatel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sakshi-patel-51586014b/)](https://www.linkedin.com/in/sakshi-patel-51586014b/)
 <a href="mailto:patelsakshi121@gmail.com"><img alt="Email" ></a>
 </p>
 
