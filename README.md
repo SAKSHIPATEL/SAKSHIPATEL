@@ -21,8 +21,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-[![Linkedin: sakshipatel](https://img.shields.io/badge/-sakshipatel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sakshi-patel-51586014b/)](https://www.linkedin.com/in/sakshi-patel-51586014b/)
-<a href="mailto:patelsakshi121@gmail.com"><img alt="Email" ></a>
+<a href="https://www.linkedin.com/in/sakshi-patel-51586014b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@sakshipatel-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:patelsakshi121@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-patelsakshi121@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
 ⭐️ From [SAKSHIPATEL](https://github.com/SAKSHIPATEL)
