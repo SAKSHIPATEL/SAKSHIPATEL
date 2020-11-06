@@ -6,8 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Graduated in Computer Science and Engineering with specialization in Cloud Computing and Virtualization from GLA UNIVERSITY,MATHURA in 2020.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture.
+- 🌱 &nbsp; Learning more about Cloud Architecture and Web Development.
 
 <br/>
 
